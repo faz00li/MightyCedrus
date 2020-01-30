@@ -25,6 +25,7 @@ namespace MightyCedrus
         try
         {
           SeedData.Initialize(services);
+          
         }
         catch (Exception ex)
         {
